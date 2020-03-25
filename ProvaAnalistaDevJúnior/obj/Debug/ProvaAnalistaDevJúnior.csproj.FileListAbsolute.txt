@@ -1,0 +1,7 @@
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\ProvaAnalistaDevJúnior\ProvaAnalistaDevJúnior\bin\Debug\ProvaAnalistaDevJúnior.exe.config
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\ProvaAnalistaDevJúnior\ProvaAnalistaDevJúnior\bin\Debug\ProvaAnalistaDevJúnior.exe
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\ProvaAnalistaDevJúnior\ProvaAnalistaDevJúnior\bin\Debug\ProvaAnalistaDevJúnior.pdb
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\ProvaAnalistaDevJúnior\ProvaAnalistaDevJúnior\obj\Debug\ProvaAnalistaDevJúnior.csprojAssemblyReference.cache
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\ProvaAnalistaDevJúnior\ProvaAnalistaDevJúnior\obj\Debug\ProvaAnalistaDevJúnior.csproj.CoreCompileInputs.cache
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\ProvaAnalistaDevJúnior\ProvaAnalistaDevJúnior\obj\Debug\ProvaAnalistaDevJúnior.exe
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\ProvaAnalistaDevJúnior\ProvaAnalistaDevJúnior\obj\Debug\ProvaAnalistaDevJúnior.pdb
